@@ -81,7 +81,7 @@ namespace Buble2
 
         static void Main(string[] args)
         {
-            /// Creating the object of the BubbleSort class
+            /// Creating the object of the BubbleSort classs
             Program mylist = new Program();
 
             /// Pemanggilan funsi untuk menerima elemen array
